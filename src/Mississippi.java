@@ -32,7 +32,24 @@ public class Mississippi {
 		System.out.println("   I");
 		System.out.println("   I");
 		System.out.println("IIIIIII");
-		
+	}
+	public static void S() {
+		System.out.println(" SSSSS");
+		System.out.println("S     S");
+		System.out.println("S");
+		System.out.println(" SSSSS");
+		System.out.println("      S");
+		System.out.println("S     S");
+		System.out.println(" SSSSS");
+	}
+	public static void P() {
+		System.out.println("PPPPPP");
+		System.out.println("P     P");
+		System.out.println("P     P");
+		System.out.println("PPPPPP");
+		System.out.println("P");
+		System.out.println("P");
+		System.out.println("P");
 	}
 
 }
